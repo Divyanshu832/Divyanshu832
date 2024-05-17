@@ -7,6 +7,6 @@ Get to know me:
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Resources for Web Development
 - 💬 Ask me about CSS, TailwindCSS, Javascript, React
-- 📫 How to reach me: www.linkedin.com/in/divyanshu-shekhar-0aa3b223a
+- 📫 How to reach me: sdivyanshushekhar@gmail.com
 - 😄 Pronouns: He/Him
 
