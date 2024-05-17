@@ -1,6 +1,7 @@
 ![logo](https://github.com/Divyanshu832/Divyanshu832/blob/main/Linkedin%20cover%20page.png)
 <br/>
 <h1 align="center">Hi 👋, I'm Divyanshu Shekhar</h1>
+<h3 align="center">A Tech enthusiast from INDIA</h3>
 <img align="right" alt="coding" width="300" height="300" src="Image Readme.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu832&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshu-Shekhar" /> </p>
