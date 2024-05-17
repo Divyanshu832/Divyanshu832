@@ -1,4 +1,5 @@
-![logo]()
+![logo](https://github.com/Divyanshu832/Divyanshu832/blob/main/Linkedin%20cover%20page.png)
+<br/>
 <h1 align="center">Hi 👋, I'm Divyanshu Shekhar</h1>
 
 Get to know me: 
