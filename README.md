@@ -5,7 +5,6 @@
 Get to know me: 
 - 🔭 I’m currently working on Building Projects
 - 🌱 I’m currently learning React
-- 🤔 I’m looking for help with Resources for Web Development
 - 💬 Ask me about CSS, TailwindCSS, Javascript, React
 - 📫 How to reach me: sdivyanshushekhar@gmail.com
 - 😄 Pronouns: He/Him
