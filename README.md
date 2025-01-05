@@ -1,4 +1,4 @@
-![logo](https://github.com/Divyanshu832/Divyanshu832/blob/main/Linkedin%20cover%20page.png)
+![logo](https://github.com/Divyanshu832/Divyanshu832/blob/main/Cover%20Image.png)
 <br/>
 <h1 align="center">Hi 👋, I'm Divyanshu Shekhar</h1>
 <h3 align="center">A Tech enthusiast from INDIA</h3>
