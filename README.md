@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/Divyanshu23029" target="blank"><img src="https://img.shields.io/twitter/follow/Divyanshu-Shekhar?logo=twitter&style=for-the-badge" alt="starsirius52" /></a> </p>
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m build **SaaS Apps, AI Agents and Automations**
 
-- 💬 Ask me about: **Java, Javascript, React**
+- 🌱 I’m always in learning mode only, currently learning **RAG, Vector DB, LangChain, LangGraph and other Agentic AI frameworks**
+
+- 💬 Ask me about: **AI, Automations, NextJS, WebApps, SaaS**
 
 - 📫 How to reach me: **sdivyanshushekhar@gmail.com**
 
